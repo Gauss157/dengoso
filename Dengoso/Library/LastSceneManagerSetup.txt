@@ -1,5 +1,9 @@
 sceneSetups:
-- path: Assets/Scenes/Pergunta3.unity
+- path: Assets/Scenes/CenarioCompleto.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/POLYGON city pack/scene/Cenario.unity
+  isLoaded: 1
+  isActive: 0
   isSubScene: 0
